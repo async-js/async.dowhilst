@@ -1,0 +1,49 @@
+{
+  "name": "async.dowhilst",
+  "description": "The post-check version of async.whilst",
+  "homepage": "https://github.com/Kikobeats/async.dowhilst",
+  "version": "0.0.0",
+  "main": "./index.js",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/async.dowhilst",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/async.dowhilst/issues"
+  },
+  "keywords": [
+    "async",
+    "module",
+    "dowhile",
+    "do while",
+    "do",
+    "while",
+    "whilst"
+  ],
+  "dependencies": {
+    "async.whilst": "~1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "latest",
+    "coffee-script": "latest",
+    "coffeeify": "latest",
+    "gulp": "latest",
+    "gulp-header": "latest",
+    "gulp-uglify": "latest",
+    "gulp-util": "latest",
+    "mocha": "latest",
+    "should": "latest",
+    "vinyl-buffer": "latest",
+    "vinyl-source-stream": "latest"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "license": "MIT"
+}

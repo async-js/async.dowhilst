@@ -1,0 +1,35 @@
+{
+  "name": "async.dowhilst",
+  "description": "The post-check version of async.whilst",
+  "homepage": "https://github.com/Kikobeats/async.dowhilst",
+  "version": "0.0.0",
+  "main": "./dist/async.dowhilst.js",
+  "authors": [
+    {
+      "email": "josefrancisco.verdu@gmail.com",
+      "name": "Kiko Beats",
+      "url": "https://github.com/Kikobeats"
+    }
+  ],
+  "repository": "Kikobeats/async.dowhilst",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/async.dowhilst/issues"
+  },
+  "keywords": [
+    "async",
+    "module",
+    "dowhile",
+    "do while",
+    "do",
+    "while",
+    "whilst"
+  ],
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "test",
+    "tests"
+  ],
+  "license": "MIT"
+}
