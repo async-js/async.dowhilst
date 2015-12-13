@@ -2,7 +2,7 @@
   "name": "async.dowhilst",
   "description": "The post-check version of async.whilst",
   "homepage": "https://github.com/Kikobeats/async.dowhilst",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "main": "./index.js",
   "author": {
     "email": "josefrancisco.verdu@gmail.com",
