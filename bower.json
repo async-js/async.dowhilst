@@ -17,12 +17,8 @@
   },
   "keywords": [
     "async",
-    "module",
-    "dowhile",
-    "do while",
-    "do",
-    "while",
-    "whilst"
+    "async-modularized",
+    "dowhilst"
   ],
   "ignore": [
     "**/.*",

@@ -15,12 +15,8 @@
   },
   "keywords": [
     "async",
-    "module",
-    "dowhile",
-    "do while",
-    "do",
-    "while",
-    "whilst"
+    "async-modularized",
+    "dowhilst"
   ],
   "dependencies": {
     "async.whilst": "~1.0.0"
